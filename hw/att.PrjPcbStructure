@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=maseter.SchDoc
+Record=SheetSymbol|SourceDocument=maseter.SchDoc|Designator=U_att1|SchDesignator=U_att1|FileName=ATT7022EU.SchDoc|SymbolType=Normal|RawFileName=ATT7022EU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=maseter.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=stm32.SchDoc|SymbolType=Normal|RawFileName=stm32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
